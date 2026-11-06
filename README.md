@@ -68,7 +68,7 @@ Task 10 of the original brief (time-series analysis of the Mira light curve) was
 ## How to run
 
 ```bash
-git clone https://github.com/<ststamatis-art>/hipparcos-hr-diagram.git
+git clone https://github.com/ststamatis-art/hipparcos-hr-diagram.git
 cd hipparcos-hr-diagram
 pip install -r requirements.txt
 jupyter notebook notebooks/hipparcos_hr_diagram.ipynb
